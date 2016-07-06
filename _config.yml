@@ -1,0 +1,28 @@
+name: Yates
+favicon: null
+layout_spectrum: 0.26040578866377473
+typography_spectrum: 0.980941636255011
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17667447263374925
+  lightness: 0.5625411851797253
+  saturation: 0.4738429698627442
+  rhythmicContrast: 0.33088277466595173
+purpose: []
